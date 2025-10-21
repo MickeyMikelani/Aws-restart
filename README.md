@@ -1,6 +1,6 @@
 # Aws-reStart
 
-## The Restart program is designed to take you from a beginner to a confident, job-ready professional in tech. Throughout the program job-ready tech professionals. Through hands-on labs and projects. I acquired skills in key areas of cloud computing and IT. Here’s an overview of what I learned:
+## The Restart program is designed to take you from a beginner to a confident, job-ready professional in tech. Throughout the program, job-ready tech professionals. Through hands-on labs and projects. I acquired skills in key areas of cloud computing and IT. Here’s an overview of what I learned:
 
 
 
