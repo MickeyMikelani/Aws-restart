@@ -1,4 +1,4 @@
-# Aws-restart
+# Aws-reStart
 
 ## The Restart program is designed to take you from a beginner to a confident, job-ready professional in tech. Throughout the program, I gained knowledge in:
  - **Cloud Computing** – Learning AWS services, application deployment, and infrastructure management.
